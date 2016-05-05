@@ -17,3 +17,4 @@ hs_err_pid*
 /.project
 # txt file 如果需要保存的txt用txtbc结尾
 *.txt
+
