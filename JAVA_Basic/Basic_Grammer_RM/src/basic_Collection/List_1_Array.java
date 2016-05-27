@@ -10,12 +10,10 @@ public class List_1_Array {
 
 	public static void main(String[] args) {
 		// 泛型 ArrayList<E> E为arraylist里面元素的类型
-		// 技巧：使用Collection ArrayList,LinkedList都可以用
-		Collection<Person> collection = new ArrayList<Person>();
-		Collection<Person> collection2 = new LinkedList<Person>();
+		
 		// 最好使用泛型告诉程序里面存的什么对象
-		ArrayList<Person> arrayList1 = new ArrayList<Person>();
-		ArrayList<Person> arrayList2 = new ArrayList<Person>();
+		List<Person> arrayList1 = new ArrayList<Person>();
+		List<Person> arrayList2 = new ArrayList<Person>();
 		// 长度 arrayList.size()
 		System.out.println(arrayList1.size());
 		// 是否为空
@@ -37,7 +35,7 @@ public class List_1_Array {
 		while (it.hasNext()) {
 			System.out.println(it.next());
 		}
-		// 得到第i个对象 get(index)
+		// 得到第i个对象 get(index) arrayList才有的
 		System.out.println(arrayList1.get(0));
 		// 清空所有数据
 		arrayList1.clear();

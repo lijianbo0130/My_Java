@@ -16,7 +16,7 @@ import org.wltea.analyzer.lucene.IKAnalyzer;
 public class AlalyzerSmartTest {
 
 	  public static void main(String[] args) throws IOException {  
-	        String text="2013年五月十号";  
+	        String text="湖北中烟工业有限责任公司是一个地方";  
 	        //创建分词对象  
 	        Analyzer anal=new IKAnalyzer(true);       
 	        StringReader reader=new StringReader(text);  

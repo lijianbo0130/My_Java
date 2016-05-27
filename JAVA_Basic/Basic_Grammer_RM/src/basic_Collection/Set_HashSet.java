@@ -18,6 +18,8 @@ public class Set_HashSet {
 		// add
 		// retainall 求交集
 		// addAll
+		// 包含contains
+		
 
 
 	}
