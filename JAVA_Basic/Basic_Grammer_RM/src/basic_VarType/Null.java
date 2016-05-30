@@ -1,4 +1,4 @@
-package basicVarType;
+package basic_VarType;
 
 /*
  * 作者:Lijianbo

@@ -1,4 +1,4 @@
-package class_relate;
+package basic_Class;
 /*
  * 同名不同参，同一个方法不同的参数
  */

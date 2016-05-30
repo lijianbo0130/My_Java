@@ -1,4 +1,4 @@
-package basicVarType;
+package basic_VarType;
 
 public class Char_and_string {
 

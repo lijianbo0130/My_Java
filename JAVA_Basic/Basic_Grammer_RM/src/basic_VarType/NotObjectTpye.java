@@ -1,4 +1,4 @@
-package basicVarType;
+package basic_VarType;
 
 public class NotObjectTpye {
 	/*

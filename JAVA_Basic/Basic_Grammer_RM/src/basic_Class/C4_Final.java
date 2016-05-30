@@ -1,4 +1,4 @@
-package class_relate;
+package basic_Class;
 /*
  * 作者:Lijianbo
  * 日期:2016年5月19日:下午2:18:32

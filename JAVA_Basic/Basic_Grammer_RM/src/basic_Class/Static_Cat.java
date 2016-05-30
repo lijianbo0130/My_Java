@@ -1,4 +1,4 @@
-package class_relate;
+package basic_Class;
 
 public class Static_Cat {
 	/*

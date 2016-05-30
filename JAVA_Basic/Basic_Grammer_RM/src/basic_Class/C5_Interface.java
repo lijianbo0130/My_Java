@@ -1,4 +1,4 @@
-package class_relate;
+package basic_Class;
 
 /*
  * 作者:Lijianbo

@@ -1,4 +1,4 @@
-package class_relate;
+package basic_Class;
 
 /*
  * 使用this关键字给age成员变量赋值 	可以处理重名的情况
